@@ -1,5 +1,3 @@
-## -- EN COURS DE REDACTION --
-
 # kalliope-tuto
 tuto d'installation de kalliope
 
