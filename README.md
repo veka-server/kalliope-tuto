@@ -27,6 +27,11 @@ git clone https://github.com/kalliope-project/kalliope_starter_fr.git /etc/kalli
 ```
 Vous pouvez a present utiliser le dossier /etc/kalliope pour editez les fichiers de config
 
+# Execution
+```bash
+kalliope start
+```
+
 # Mise a jour
 ```bash
 pip3 install --upgrade kalliope
